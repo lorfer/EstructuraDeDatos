@@ -1,0 +1,6 @@
+﻿  Test.cpp
+C:\Users\Randy\source\repos\EstructuraDeDatos\Test.cpp(40,8): warning C4101:  'v_Iter': variable local sin referencia
+  cListaSimple.cpp
+  Generando código...
+C:\Users\Randy\source\repos\EstructuraDeDatos\Test.cpp(39,8): warning C4101:  'lv_Iter': variable local sin referencia
+  EstructuraDeDatos.vcxproj -> C:\Users\Randy\source\repos\EstructuraDeDatos\x64\Debug\EstructuraDeDatos.exe
